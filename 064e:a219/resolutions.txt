@@ -1,0 +1,16 @@
+Listing available frame formats for device /dev/video1:
+Pixel format: YUYV (YUV 4:2:2 (YUYV); MIME type: video/x-raw-yuv)
+  Frame size: 640x480
+    Frame rates: 30, 15
+  Frame size: 352x288
+    Frame rates: 30, 15
+  Frame size: 320x240
+    Frame rates: 30, 15
+  Frame size: 176x144
+    Frame rates: 30, 15
+  Frame size: 160x120
+    Frame rates: 30, 15
+  Frame size: 1280x800
+    Frame intervals: 2/15
+  Frame size: 1280x1024
+    Frame intervals: 2/15

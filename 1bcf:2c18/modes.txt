@@ -1,0 +1,11 @@
+ioctl: VIDIOC_ENUM_FMT
+	Index       : 0
+	Type        : Video Capture
+	Pixel Format: 'YUYV'
+	Name        : YUV 4:2:2 (YUYV)
+
+	Index       : 1
+	Type        : Video Capture
+	Pixel Format: 'MJPG' (compressed)
+	Name        : MJPEG
+
