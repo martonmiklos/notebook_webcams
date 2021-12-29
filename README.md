@@ -1,12 +1,10 @@
 ## Notebook webcams
 
 Once upon a time one of my friends ran a notebook repair business.
-
 Over the years he collected many-many covers including webcams.
-
 At one day we sat down and tested a couple of them to see which could be repurposed for robotics competitions.
-
 At that time we were mainly curious about the MJPEG support of the cameras.
+Most of them had crappy VGA resolution only, so I put this here just for archiving purposes.
 
 ### What you can find in this repo
 * Folders named about the USB VID:PID of the cameras
